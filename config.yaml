@@ -1,0 +1,7 @@
+Word2Vec_model:
+  embedding_dim: 256
+  R: 5
+  ratio: 4
+  batch_size: 
+  num_epochs: 30
+  save_checkpoint: true
